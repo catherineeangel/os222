@@ -23,3 +23,4 @@ ZCZC W01 40 L05 Quiz related including studying
 ZCZC W01 60 L11 Assignment #01
 ZCZC W01 25 L27 SSH, key-gen, putty
 ZCZC W01 25 L03 Github and git related
+ZCZC W01 30 L11 Assignment #01
