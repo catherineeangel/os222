@@ -15,12 +15,12 @@ permalink: LINKS/
 
 # LINKS
 
-1. [One](https://www.linux.org/)<br>
-   Linux Forum for Everyone :)
-2. [Two](https://hackr.io/blog/basic-linux-commands)<br>
-   Basic commands used in Linux
-3. [Three](https://www.javatpoint.com/linux-edit-file)<br>
-   Ways to edit file in Linux
+1. [Linux Forum and Tutorials](https://www.linux.org/)<br>
+   Linux Forum for Everyone :). Learn Linux together with the community.
+2. [Commands used in Linux](https://hackr.io/blog/basic-linux-commands)<br>
+   Learn some of the most basic commands used in Linux. 
+3. [How to edit file in Linux?](https://www.javatpoint.com/linux-edit-file)<br>
+   There are several ways to edit file in Linux. This website explains them alongside with tutorials. 
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
