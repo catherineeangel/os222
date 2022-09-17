@@ -21,6 +21,12 @@ permalink: LINKS/
    Learn some of the most basic commands used in Linux.
 3. [How to edit file in Linux?](https://www.javatpoint.com/linux-edit-file)<br>
 There are several ways to edit file in Linux. This website explains them alongside with tutorials.
+4. [Linux 101 (Video)](https://www.youtube.com/watch?v=nLDoUJYm0OI)<br>
+Learn how to navigate in Linux with this video. This video explains about the common commands used in Linux as well as the file system.
+5. [Copy file 'to and from Linux' with SCP](https://phoenixnap.com/kb/linux-scp-command)
+This website helped me when I couldn't figure out how to copy file/folders from one user to another in Linux. There are examples as well to help you visualize how to command works.
+
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
