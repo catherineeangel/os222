@@ -25,7 +25,12 @@ There are several ways to edit file in Linux. This website explains them alongsi
 Learn how to navigate in Linux with this video. This video explains about the common commands used in Linux as well as the file system.
 5. [Copy file 'to and from Linux' with SCP](https://phoenixnap.com/kb/linux-scp-command)
 This website helped me when I couldn't figure out how to copy file/folders from one user to another in Linux. There are examples as well to help you visualize how to command works.
-
+6. [Encrypt and Decrypt File](https://www.howtogeek.com/427982/how-to-encrypt-and-decrypt-files-with-gpg-on-linux/)
+I learnt the commands on how to encrypt and decrypt files with gpg in linux from this website. It is really helpful.
+7. [import GPG key from another machine](https://makandracards.com/makandra-orga/37763-gpg-extract-private-key-and-import-on-different-machine)
+Learn to import and export GPG key from other user or machine to the current user you're working with. This enables user to use existing GPG key instead of creating a new one.
+8. [wget command in Linux and its example](https://linuxize.com/post/wget-command-examples/)
+This website shows various wget commands you can use to download file in linux. 
 
 <br>
 <hr>
