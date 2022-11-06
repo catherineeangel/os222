@@ -88,3 +88,6 @@ ZCZC W06 100 L00 General, class
 ZCZC W06 100 L16 Assignment #06
 ZCZC W06 10 L41 TXT/mylog.txt related.
 ZCZC W06 20 L24 Scripting in general.
+ZCZC W06 60 L16 Assignment #06
+ZCZC W06 20 L25 C-language including Make.
+ZCZC W06 20 L26 GnuPG, key-gen, encrypt/decrypt.

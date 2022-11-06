@@ -31,6 +31,14 @@ I learnt the commands on how to encrypt and decrypt files with gpg in linux from
 Learn to import and export GPG key from other user or machine to the current user you're working with. This enables user to use existing GPG key instead of creating a new one.
 8. [wget command in Linux and its example](https://linuxize.com/post/wget-command-examples/)
 This website shows various wget commands you can use to download file in linux. 
+9. [Basic C programming](https://www.tutorialspoint.com/cprogramming/index.htm)
+Learn how to program C with this website. It shows an example on how to make a simple C program that prints "Hello World"
+10. [A Simple Makefile Tutorial](https://cs.colby.edu/maxwell/courses/tutorials/maketutor/)
+Title is quite self explanatory. A tutorial on how to create makefile to organize code compilation. For instance, when compiling a C program.
+11. [Linux Help](https://www.linuxhelp.com/)
+A website to build and enhance your knowledge in Linux through tutorials, forums & the latest Linux news. Made by the Linux community for the Linux community.
+
+
 
 <br>
 <hr>
