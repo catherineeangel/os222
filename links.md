@@ -37,6 +37,12 @@ Learn how to program C with this website. It shows an example on how to make a s
 Title is quite self explanatory. A tutorial on how to create makefile to organize code compilation. For instance, when compiling a C program.
 11. [Linux Help](https://www.linuxhelp.com/)
 A website to build and enhance your knowledge in Linux through tutorials, forums & the latest Linux news. Made by the Linux community for the Linux community.
+12. [LFS Video Step by Step](https://www.youtube.com/watch?v=0EwMnskxIZM&list=PLyc5xVO2uDsDlbR_LTP37nG6g4vbSSxSZ&index=6)
+This youtube playlist helps me for week 8 assignment. It's very clear and helpful.
+13. [Fix bash-5.1$ issue](https://www.linuxquestions.org/questions/slackware-14/opening-terminal-only-showing-bash5-1-instead-of-username%40hostname-4175700903/)
+When bash-5.1 shows up instead of my username. I found this solution. 
+14. [Mirror Files from OSU](https://ftp.osuosl.org/pub/lfs/lfs-packages/11.2/)
+A lot of resources that can be used from this link.
 
 
 
