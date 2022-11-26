@@ -43,6 +43,10 @@ This youtube playlist helps me for week 8 assignment. It's very clear and helpfu
 When bash-5.1 shows up instead of my username. I found this solution. 
 14. [Mirror Files from OSU](https://ftp.osuosl.org/pub/lfs/lfs-packages/11.2/)
 A lot of resources that can be used from this link.
+15. [LFS Forum](https://www.lfs.net/forum)
+Forum discussion regarding LFS.
+16 [Linux Questions](https://www.linuxquestions.org/questions/linux-from-scratch-13/)
+Website that answers questions about linux or LFS.
 
 
 

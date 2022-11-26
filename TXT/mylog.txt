@@ -117,3 +117,18 @@ ZCZC W08 60 L06 References/Books/Documents/Browsing/GSGS related
 ZCZC W08 60 L22 Linux CLI including tar, etc.
 ZCZC W08 20 L41 TXT/mylog.txt related.
 ZCZC W08 10 L44 TXT/myscript.sh related.
+ZCZC W09 60 L01 SCELE/Discord related
+ZCZC W09 20 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W09 30 L40 TXT/ related in general.
+ZCZC W09 100 L00 General, class
+ZCZC W09 100 L00 General, class
+ZCZC W09 10 L41 TXT/mylog.txt related.
+ZCZC W09 20 L24 Scripting in general.
+ZCZC W09 40 L40 TXT/ related in general.
+ZCZC W09 120 L19 Assignment #09
+ZCZC W09 120 L19 Assignment #09
+ZCZC W09 60 L22 Linux CLI including tar, etc.
+ZCZC W09 60 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W09 60 L22 Linux CLI including tar, etc.
+ZCZC W09 20 L41 TXT/mylog.txt related.
+ZCZC W09 10 L44 TXT/myscript.sh related.
